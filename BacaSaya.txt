@@ -20,7 +20,7 @@ git clone <url>
 
 git add *
 
-git commit -m "first commit"
+git commit -m "first commit blah blah"
 
 git push
 
