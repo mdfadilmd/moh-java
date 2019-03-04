@@ -1,0 +1,28 @@
+1. Muat turun (download) JDK dari laman web Oracle
+
+2. Pasang (install)
+	- pasang ke C:\program files\java\jdk..
+
+3. Set Environment variable path point ke C:\program files\java\jdk..\bin
+
+4. compile --> javac <nama fail>.java di GIT Bash
+
+5. run --> java <nama fail> di GIT Bash
+
+
+
+GIT Command
+...........
+git clone <url>
+	- salin dari repo di github
+	git clone https://github.com/mdfadilmd/moh-java.git
+	copy all folders / files in moh-java, paste into mohjava (this case: .git folder and README.md file)
+
+git add *
+
+git commit -m "first commit"
+
+git push
+
+
+
